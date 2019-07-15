@@ -1,0 +1,10 @@
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\bin\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.deps.json
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\bin\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.runtimeconfig.json
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\bin\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\bin\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.dll
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\bin\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.pdb
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\obj\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\obj\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\obj\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.AssemblyInfo.cs
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\obj\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.dll
+C:\Users\joaog\source\repos\DesafiosMovi\DesafiosMovi.Conjuntos\obj\Debug\netcoreapp2.2\DesafiosMovi.Conjuntos.pdb
